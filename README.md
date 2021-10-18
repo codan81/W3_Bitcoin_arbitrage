@@ -30,12 +30,15 @@ This section provides a brief overview of W3_Bitcoin_arbitrage functionality.
 ```
 ## Collect the Data
 
-Pandas read_csv function and the Path module, import the data from the csv file
-
-Upon launching the loan qualifier application you will be greeted with the following prompts.
-
 ![collect data image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
 
+## Prepare the Data
+
+
+## Analyze the Data
+
+
+## Focus Your Analysis on Specific Dates
 
 
 ---

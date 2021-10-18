@@ -30,7 +30,7 @@ This section provides a brief overview of W3_Bitcoin_arbitrage functionality.
 ```
 ## Collect the Data
 
-![collect data image](https://github.com/codan81/W3_Bitcoin_arbitrage/blob/main/screenshots/collect%20data%20image.png)
+![collect data image](https://github.com/codan81/W3_Bitcoin_arbitrage/blob/main/screenshots/collect%20data%20image.png?raw=true)
 ![collect data image](https://github.com/codan81/W3_Bitcoin_arbitrage/blob/main/screenshots/collect%20data%20image2.png)
 
 ## Prepare the Data

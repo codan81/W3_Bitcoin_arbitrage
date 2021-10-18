@@ -30,12 +30,12 @@ This section provides a brief overview of W3_Bitcoin_arbitrage functionality.
 ```
 ## Collect the Data
 
-![collect data image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
-![collect data image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
+![collect data image](https://github.com/codan81/W3_Bitcoin_arbitrage/blob/main/screenshots/collect%20data%20image.png)
+![collect data image](https://github.com/codan81/W3_Bitcoin_arbitrage/blob/main/screenshots/collect%20data%20image2.png)
 
 ## Prepare the Data
 
-![Prepare the Data image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
+![Prepare the Data image](https://github.com/codan81/W3_Bitcoin_arbitrage/blob/main/screenshots/Prepare%20the%20Data%20image.png)
 
 ## Analyze the Data
 
@@ -43,7 +43,7 @@ This section provides a brief overview of W3_Bitcoin_arbitrage functionality.
 
 ## Focus Your Analysis on Specific Dates
 
-![Focus Your Analysis image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
+![Focus Your Analysis image](https://github.com/codan81/W3_Bitcoin_arbitrage/blob/main/screenshots/Focus%20Your%20Analysis%20image.png)
 
 ---
 

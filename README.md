@@ -31,15 +31,19 @@ This section provides a brief overview of W3_Bitcoin_arbitrage functionality.
 ## Collect the Data
 
 ![collect data image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
+![collect data image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
 
 ## Prepare the Data
 
+![Prepare the Data image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
 
 ## Analyze the Data
 
+![Analyze the Data image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
 
 ## Focus Your Analysis on Specific Dates
 
+![Focus Your Analysis image] (../Desktop/github_ upload  /W3_Bitcoin_arbitrage /screenshots)
 
 ---
 

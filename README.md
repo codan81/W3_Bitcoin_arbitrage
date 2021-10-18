@@ -39,7 +39,7 @@ This section provides a brief overview of W3_Bitcoin_arbitrage functionality.
 
 ## Analyze the Data
 
-![Analyze the Data image] (https://github.com/codan81/W3_Bitcoin_arbitrage/blob/main/screenshots/Analyze%20the%20Data%20image.png)
+![Analyze the Data image](https://github.com/codan81/W3_Bitcoin_arbitrage/blob/main/screenshots/Analyze%20the%20Data%20image.png)
 
 ## Focus Your Analysis on Specific Dates
 
